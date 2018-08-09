@@ -51,4 +51,5 @@
 * [7 lesser known hacks for debugging in Visual Studio](https://blogs.msdn.microsoft.com/visualstudio/2017/06/26/7-lesser-known-hacks-for-debugging-in-visual-studio/)
 * [7 More Lesser-known Debugging Tactics for Visual Studio](https://blogs.msdn.microsoft.com/visualstudio/2017/09/18/7-more-lesser-known-debugging-tactics-for-visual-studio/)
 * [Filter Breakpoints in Parallell](https://blogs.msdn.microsoft.com/devops/2013/10/09/filter-breakpoints/)
+* [Visual Studio 2010 操作技巧系列：常用功能心得筆記](https://blog.miniasp.com/post/2011/03/29/Visual-Studio-2010-Tips-Part-01.aspx)
 * [XD](https://www.youtube.com/watch?v=dkbedDWGj04&list=PLkg3i0QfQTCWNxceaun2iBwNdeVXQa-Zj)
