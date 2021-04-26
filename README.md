@@ -10,7 +10,7 @@
 * Autos
 * Watch/Quick Watch
 * WPF Live visual tree
-* *Modules*
+* **Modules**
 * Attach to Process dialog (Reattach)
 
 ### Useful tools in profiling
@@ -29,7 +29,7 @@
 * *DebuggerDispaly attribute*
 * Conditional breakpoint
 * Data visualizers (xml, html, json, txt, dataset)
-* *PerfTips*
+* **PerfTips**
 * Better null reference exception helper
 
 ## Diagnostic tool
